@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotaPlayers", "DotaPlayers\DotaPlayers.csproj", "{A15C6617-885B-4C5B-BCE4-76B4E33D31A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A15C6617-885B-4C5B-BCE4-76B4E33D31A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A15C6617-885B-4C5B-BCE4-76B4E33D31A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A15C6617-885B-4C5B-BCE4-76B4E33D31A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A15C6617-885B-4C5B-BCE4-76B4E33D31A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {150B974B-C3F0-418F-9ED3-ED86C23146C9}
+	EndGlobalSection
+EndGlobal
